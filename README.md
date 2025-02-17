@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 wi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Odoo](https://img.shields.io/badge/-Odoo-604058?style=flat&logo=odoo)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat&logo=linux)
 ![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco)
@@ -59,7 +58,7 @@ Modificar
 -->
 📫Connect with me:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luismdp05)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luismdp05/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/luismdp05)
-[![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail&logoColor=red)](mailto:ldominguezpiel@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/racMart00)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/racmart00/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/racmart00)
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail&logoColor=red)](mailto:racmart00@gmail.com)
