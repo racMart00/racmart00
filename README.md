@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 wi
 ![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat&logo=linux)
 ![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco)
 
-- ⚡ Fun fact: I love practicing sports, not everything is coding.
+- ⚡ Fun fact: I love play videogames, not everything is coding.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
