@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael Alejandro Castillo Martínez</a></h1>
+  <img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="80%" height="80vh">
 </div>
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="80%" height=40vh>
 
 <!-- ### Hi there 👋👋 
 ### I'm Rafael Castillo -->
