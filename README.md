@@ -2,7 +2,7 @@
   <h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael Alejandro Castillo Martinez Martínez</a></h1>
 </div>
 
-<img src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=1080&fidelity=grand">
+<img src="https://imgur.com/a/56hXcNX.png">
 
 <!-- ### Hi there 👋👋 
 ### I'm Rafael Castillo -->
