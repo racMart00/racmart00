@@ -72,6 +72,6 @@ Modificar
 📫Connect with me:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/racmart00)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rac_mart)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
+[![X](https://img.shields.io/badge/-X-1ca0f1?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:racmart00@gmail.com)
