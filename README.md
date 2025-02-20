@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 wi
 ![TypeScript](https://img.shields.io/badge/TypeScript-363636?logo=typescript&logoColor=ffffff&labelColor=3178C6&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-363636?logo=ubuntu&logoColor=ffffff&labelColor=E95420&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-363636?logo=git&logoColor=ffffff&labelColor=F05032&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-363636?logo=github&logoColor=ffffff&labelColor=181717&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-363636?logo=docker&logoColor=ffffff&labelColor=2496ED&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-363636?logo=django&logoColor=ffffff&labelColor=092E20&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-363636?logo=linux&logoColor=ffffff&labelColor=FFA500&style=for-the-badge)
@@ -72,7 +71,7 @@ Modificar
 -->
 📫Connect with me:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/racmart00)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/rac_mart)
-[![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail&logoColor=red)](mailto:racmart00@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/racmart00)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rac_mart)
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:racmart00@gmail.com)
