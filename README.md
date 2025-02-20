@@ -55,8 +55,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racmart00@gmail.com)
 
 <a href="https://github.com/racMart00/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racMart00&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racMart00&theme=github_dark_dimmed&card_width=420" />
 </a>
 <a href="https://github.com/racMart00/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=420" />
 </a>
