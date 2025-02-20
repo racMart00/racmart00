@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael A. Castillo Martínez</a></h1>
-![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)(#)
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="100%" height="360vh">
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.
 
 ## 🛠️ Languages and Tools:
+![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
