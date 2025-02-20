@@ -7,24 +7,28 @@
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.
 
 ## 🛠️ Languages and Tools:
-![Flutter](https://img.shields.io/badge/Flutter-363636?logo=flutter&logoColor=ffffff&labelColor=02569B&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-363636?logo=html5&logoColor=ffffff&labelColor=E34F26&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-363636?logo=css3&logoColor=ffffff&labelColor=1572B6&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-363636?logo=javascript&logoColor=ffffff&labelColor=FFA500&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-363636?logo=python&logoColor=ffffff&labelColor=3776AB&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-363636?logo=php&logoColor=ffffff&labelColor=777BB4&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-363636?logo=laravel&logoColor=ffffff&labelColor=FF2D20&style=for-the-badge)
-![Odoo](https://img.shields.io/badge/Odoo-363636?logo=odoo&logoColor=ffffff&labelColor=EE3A43&style=for-the-badge)
-![React](https://img.shields.io/badge/React-363636?logo=react&logoColor=ffffff&labelColor=61DAFB&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-363636?logo=typescript&logoColor=ffffff&labelColor=3178C6&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-363636?logo=ubuntu&logoColor=ffffff&labelColor=E95420&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-363636?logo=git&logoColor=ffffff&labelColor=F05032&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-363636?logo=docker&logoColor=ffffff&labelColor=2496ED&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-363636?logo=django&logoColor=ffffff&labelColor=092E20&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-363636?logo=linux&logoColor=ffffff&labelColor=FFA500&style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-363636?logo=cisco&logoColor=ffffff&labelColor=00529B&style=for-the-badge)
-![Godot](https://img.shields.io/badge/Godot-363636?logo=godot-engine&logoColor=ffffff&labelColor=478CBF&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-363636?logo=bootstrap&logoColor=ffffff&labelColor=7952B3&style=for-the-badge)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)]
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)]
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)]
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)]
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)]
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)]
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)]
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)]
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)]
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)]
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)]
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)]
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)]
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)]
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
 
 - ⚡ Fun fact: I love play videogames, not everything is coding.
 <!--
