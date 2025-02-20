@@ -1,7 +1,4 @@
-<h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael A. Castillo Martínez</a></h1>
-<h1>
-  <img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" alt="Website Status">
-</h1>
+<h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael A. Castillo Martínez</a><img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" alt="Website Status"></h1>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="100%" height="360vh">
 
