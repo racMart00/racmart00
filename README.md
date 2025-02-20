@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 wi
 ![Django](https://img.shields.io/badge/Django-363636?logo=django&logoColor=ffffff&labelColor=092E20&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-363636?logo=linux&logoColor=ffffff&labelColor=FFA500&style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-363636?logo=cisco&logoColor=ffffff&labelColor=00529B&style=for-the-badge)
-[![Java](https://img.shields.io/badge/Java-363636?logo=java&logoColor=ffffff&labelColor=007396&style=for-the-badge)](https://www.java.com/)
 ![Godot](https://img.shields.io/badge/Godot-363636?logo=godot-engine&logoColor=ffffff&labelColor=478CBF&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-363636?logo=bootstrap&logoColor=ffffff&labelColor=7952B3&style=for-the-badge)
 
