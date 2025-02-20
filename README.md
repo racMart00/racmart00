@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact: I love play videogames, not everything is coding.
 - 🔭 I’m currently working on XETID
-- 👯 I’m looking to collaborate on CuCode
+- 👯 I’m looking to collaborate on CuCoders
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
