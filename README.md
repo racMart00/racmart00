@@ -1,11 +1,9 @@
-<div align="center">
+<div align="left">
   <h1 align="center">Hi there 👋👋 I'm <a href="https://my-resume-143a5.web.app">Rafael Alejandro Castillo Martínez</a></h1>
   <img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="80%" height="340vh">
 </di>
-  
-<div align="left">
+
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web development, enterprise software solutions and networking.
-</div>
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
