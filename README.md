@@ -4,7 +4,7 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="100%" height="360vh">
 
-Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web development, enterprise software solutions and networking.
+Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
