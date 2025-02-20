@@ -58,8 +58,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racMart00&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/racMart00/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=auto" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=racMart00&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racMart00&layout=compact&theme=github_dark_dimmed)
