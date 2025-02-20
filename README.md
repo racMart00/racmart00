@@ -7,6 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.
 
 ## 🛠️ Languages and Tools:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
