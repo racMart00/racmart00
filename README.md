@@ -54,5 +54,12 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racmart00@gmail.com)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=racMart00&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racMart00&layout=compact&theme=github_dark_dimmed)
