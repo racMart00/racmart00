@@ -51,7 +51,7 @@
 
 <!--[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://my-resume-143a5.web.app)-->
 
-![Website](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)
+![Website](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racmart00@gmail.com)
