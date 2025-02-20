@@ -5,6 +5,7 @@
   
 <div align="left">
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web development, enterprise software solutions and networking.
+</div>
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
@@ -66,4 +67,3 @@ Modificar
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail&logoColor=red)](mailto:racmart00@gmail.com)
-</div>
