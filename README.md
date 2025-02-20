@@ -58,5 +58,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racMart00&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/racMart00/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racMart00&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=380" />
 </a>
