@@ -6,6 +6,7 @@
 <div align="left">
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web development, enterprise software solutions and networking.
 </div>
+
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
