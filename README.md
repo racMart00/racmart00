@@ -73,5 +73,5 @@ Modificar
 
 ![GitHub](https://img.shields.io/badge/GitHub-363636?logo=github&logoColor=ffffff&labelColor=000000&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-363636?logo=linkedin&logoColor=ffffff&labelColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/racmart/)
-[![Twitter](https://img.shields.io/badge/Twitter-363636?logo=twitter&logoColor=ffffff&labelColor=1ca0f1&style=for-the-badge)](https://twitter.com/rac_mart)
+[![X](https://img.shields.io/badge/Twitter-363636?logo=twitter&logoColor=ffffff&labelColor=1ca0f1&style=for-the-badge)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-363636?logo=gmail&logoColor=ffffff&labelColor=red&style=for-the-badge)](mailto:racmart00@gmail.com)
