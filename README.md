@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 wi
 -->
 📫Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-363636?logo=github&logoColor=ffffff&labelColor=000000&style=for-the-badge)](https://github.com/racmart00)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/racmart00)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/racmart/)
-[![Twitter](https://img.shields.io/badge/Twitter-363636?logo=twitter&logoColor=ffffff&labelColor=1DA1F2&style=for-the-badge)](https://twitter.com/rac_mart)
-[![Gmail](https://img.shields.io/badge/Gmail-363636?logo=gmail&logoColor=ffffff&labelColor=D14836&style=for-the-badge)](mailto:racmart00@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/rac_mart)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:racmart00@gmail.com)
