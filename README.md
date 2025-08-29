@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋👋, I'm <a href="https://my-resume-143a5.web.app"><del>Rafael A. Castillo Martínez</del></a></h1>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/rKTqsc6_d.webp?maxwidth=760&amp;fidelity=grand" width="100%" height="360vh">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/egy5SKy.webp?maxwidth=760&amp;fidelity=grand" width="100%" height="360vh">
 
 <p>Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.</p>
 
