@@ -1,10 +1,11 @@
-<h1>Hi there 👋👋, I'm <a href="#">Rafael Alejandro Castillo Martínez</a></h1>
+<h1>Hola!!! 👋👋, Soy <a href="#">Rafael Alejandro Castillo Martínez</a></h1>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.imgur.com/swkjzaV.png?maxwidth=760&amp;fidelity=grand">
 
-<p>Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web && android development, enterprise software solutions and networking.</p>
+<p>Hola y bienvenido/a a mi perfil de GitHub.!</p>
+<p>Soy un ingeniero de ciencias de la computación con más de 2 años de experiencia en el desarrollo de software. Mi pasión es transformar ideas en soluciones de valor, con un enfoque en el desarrollo frontend con Flutter. A lo largo de mi carrera, he liderado la creación de una aplicación de billetera móvil y una pasarela de pago segura.</p>
 
-## 🛠️ Languages and Tools:
+## 🛠️ Lenguajes y Herramientas:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,18 +33,18 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-- ⚡ Fun fact: I love play videogames, not everything is coding.
-- 🔭 I’m currently working on XETID
-- 👯 I’m looking to collaborate on CuCoders
+- ⚡ Dato curioso: Me encanta jugar videojuegos, no todo es programar.
+- 🔭 Actualmente estoy trabajando en XETID.
+- 👯 Estoy buscando colaborar en CuCoders.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I love practicing sports, not everything is coding.
 -->
-📫Connect with me:
+📫Conectemos:
 
-[![Website](https://shields.io/badge/Website-down-red?style=for-the-badge)](https://my-resume-143a5.web.app)
+[![Sitio Web](https://shields.io/badge/Website-down-red?style=for-the-badge)](https://my-resume-143a5.web.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racmart/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rac_mart)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:racmart00@gmail.com)
